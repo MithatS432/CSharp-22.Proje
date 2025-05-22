@@ -1,0 +1,8 @@
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\bin\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.exe.config
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\bin\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.exe
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\bin\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.pdb
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\obj\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.csproj.AssemblyReference.cache
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\obj\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.csproj.CoreCompileInputs.cache
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\obj\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.exe
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\obj\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.pdb
+C:\Users\mitha\source\repos\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\Constructor (Yapıcı) ve Destructor (Yıkıcı)2\obj\Debug\Constructor (Yapıcı) ve Destructor (Yıkıcı)2.exe.config
